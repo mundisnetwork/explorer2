@@ -1,0 +1,28 @@
+{
+  "home": {
+    "topic": "Svelte Localization Tutorial",
+    "subtopic": "Internationalization and Localization"
+  },
+  "framework": {
+    "languages": "There {n, plural, =0 {are no languages} one {# is one languages} other {# are several languages}} in this tutorial",
+    "rtl": "{n, plural, =0 {No languages are} one {# Only one language is} other {# Several languages are}} written from left to right ",
+    "released_at": "Released {date}"
+  },
+  "footer": {
+    "line1": "Companion to a <a href=\"{phraseUrl}\">localise</a> article.",
+    "line2": "Made with <a href=\"{svelteUrl}\">Svelte</a> &amp; <a href=\"{bulmaUrl}\">Materialize</a>."
+  },
+  "menu": {
+    "inspector": "Inspector",
+    "cluster_stats": "Cluster Stats",
+    "supply": "Supply",
+    "refresh": "Reload",
+    "install": "Install the app"
+  },
+  "dashboard": {
+    "full_report_title": "Reconciliation overview"
+  },
+  "explorer": {
+    
+  }
+}

@@ -1,0 +1,4 @@
+{
+    "svelte.plugin.svelte.format.config.printWidth": 120,
+    "svelte.plugin.svelte.format.config.svelteBracketNewLine": false
+}
